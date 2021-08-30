@@ -1,0 +1,1 @@
+[{"title":"Verduras","price":5.5,"thumbmail":"foto2","id":1},{"title":"Carne","price":21.8,"thumbmail":"foto1","id":2},{"title":"Lacteos","price":10.05,"thumbmail":"foto3","id":3},{"title":"Bebidas","price":39,"thumbmail":"foto4","id":4},{"title":"Bazar","price":558,"thumbmail":"foto5","id":5}]
